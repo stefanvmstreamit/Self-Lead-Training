@@ -6,6 +6,7 @@
  */
 
 // Use YOUR Group Id value here if it is different from com.mthree
+package com.mthree.helloworld;
 import java.util.Scanner;
 
 public class Hello {
